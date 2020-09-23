@@ -1,0 +1,12 @@
+USER: ALU             PASSWORD: ALU
+
+
+La contraseña administrativa es la siguiente recuerda que es en letra mayúscula “ADMINISTRATOR“
+esta se utiliza cuando quieres crear una nueva cuenta. 
+Si  Quieres puedes entrar por  USER: ALU             PASSWORD: ALU 
+
+
+
+The administrative password is, remembers that is in capital letter “ADMINISTRATOR “
+this one is to create a new account. If you want you can enter by USER: ALU   PASSWORD: ALU 
+
